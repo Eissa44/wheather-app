@@ -119,6 +119,16 @@ ul {
 }
 /* END OF REGION */
 
+/* START OF REGION CONTACT SECTION */
+.contactSection {
+  background-color: #1e202b;
+  /* height: 50rem; */
+}
+.contactSection .navigation {
+  background-color: #262936;
+}
+
+/* END OF REGION */
 /* START OF REGION FOOTER SECTION */
 footer {
   background-color: #262936 !important;
