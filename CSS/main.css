@@ -66,8 +66,8 @@ ul {
 /* END OF REGION */
 
 /* START OF REGION INPUT SECTION */
-.input-from {
-  background-image: url(../imgs/banner.png);
+.generalDiv {
+  background-image: url(../imgs/weather.jpg);
   padding-block: 4rem;
   background-position: center;
   background-size: cover;
@@ -116,6 +116,16 @@ ul {
   background-color: var(--mainColor);
   color: white;
   border: var(--mainColor);
+}
+/* END OF REGION */
+
+/* START OF RAGION WEATHER INFO */
+.head {
+  background-color: var(--bgColor);
+}
+
+.days {
+  background-color: #323544 !important;
 }
 /* END OF REGION */
 
